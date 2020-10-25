@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rm:rmswitch:1.2.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-rmswitch-1.2.2.aar/04e016e0a14554b94e1c1e018f182cd5/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-rmswitch-1.2.2.aar/04e016e0a14554b94e1c1e018f182cd5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-rmswitch-1.2.2.aar/04e016e0a14554b94e1c1e018f182cd5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-rmswitch-1.2.2.aar/04e016e0a14554b94e1c1e018f182cd5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rm/rmswitch/1.2.2/8b188f869676924f856ee09a173a177bb41a0dc1/rmswitch-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
